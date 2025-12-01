@@ -1,7 +1,7 @@
 🌟 Hi, I'm Maria Julia 👋
 
 Full-stack Developer passionate about building scalable APIs and modern web applications.
-I work daily with Node.js, Kurier, TypeScript, PostgreSQL, Docker and modern frontend frameworks like React and Ember.
+I work daily with Node.js, Kurier, TypeScript, PostgreSQL and modern frontend frameworks like React and Ember.
 I enjoy solving real problems, improving user experience, implementing state machines, and optimizing backend workflows.
 
 I'm also interested in continuing to grow in the implementation and use of AI tools in my work
