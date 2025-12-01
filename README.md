@@ -27,4 +27,4 @@ mariajuliapiassentini@gmail.com
 
 🤔 I’m looking for help with applying AI in development workflows and exploring best practices for intelligent automations.
 
-⚡ Fun fact: I enjoy playing with Arduino kits to create fun little projects.
+
